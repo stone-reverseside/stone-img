@@ -1,0 +1,2 @@
+# stone-img
+Store pictures
